@@ -1,0 +1,14 @@
+.modal.modal-fullscreen .modal-dialog {
+  width:85vw;
+  height:80vh;
+  margin:30 auto;
+  padding:0;
+  max-width:none;
+}
+
+.modal.modal-fullscreen .modal-content {
+  height:auto;
+  height: 93vh;
+  border-radius:0;
+  border:none;
+}
