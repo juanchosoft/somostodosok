@@ -6,23 +6,23 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="plugins/sweetalert2/sweetalert2.min.css">
-  <title>Movimiento - ES TIEMPO</title>
+  <title>Movimiento - SOMOS TODOS</title>
   <meta name="description" content="Ayúdanos a construir un mejor pais. Con los aportes de toda la comunidad podemos hacer una Colombia más próspera y segura."/>
-  <meta name="image" content="https://estiempo.org/images/logook.png">
-  <meta itemprop="image" content="https://estiempo.org/images/logook.png">
-  <link rel="canonical" href="https://estiempo.org/" />
+  <meta name="image" content="https://somostodos.com.co/images/favicon/logook.png">
+  <meta itemprop="image" content="https://somostodos.com.co/images/favicon/logook.png">
+  <link rel="canonical" href="https://somostodos.com.co/" />
   <meta property="og:locale" content="es_ES" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Movimiento - ES TIEMPO" />
+  <meta property="og:title" content="Movimiento - SOMOS TODOS" />
   <meta property="og:description" content="Ayúdanos a construir un mejor pais. Con los aportes de toda la comunidad podemos hacer una Colombia más próspera y segura." />
-  <meta property="og:url" content="https://estiempo.org/" />
-  <meta property="og:site_name" content="Movimiento - ES TIEMPO" />
-  <meta name="og:image" content="https://estiempo.org/images/logook.png">
+  <meta property="og:url" content="https://somostodos.com.co/" />
+  <meta property="og:site_name" content="Movimiento - SOMOS TODOS" />
+  <meta name="og:image" content="https://somostodos.com.co/images/favicon/logook.png">
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Movimiento - ES TIEMPO" />
+  <meta name="twitter:title" content="Movimiento - SOMOS TODOS" />
   <meta name="twitter:description" content="Ayúdanos a construir un mejor pais. Con los aportes de toda la comunidad podemos hacer una Colombia más próspera y segura." />
-  <meta name="twitter:image:src" content="https://estiempo.org/images/logook.png">
-  <meta name="twitter:label1" content="Movimiento - ES TIEMPO" />
+  <meta name="twitter:image:src" content="https://somostodos.com.co/images/favicon/logook.png">
+  <meta name="twitter:label1" content="Movimiento - SOMOS TODOS" />
 
 
   <!-- slider stylesheet -->
@@ -41,9 +41,9 @@
   <link href="css/magnific-popup.css" rel="stylesheet">
   <link href="css/styles.css" rel="stylesheet">
   <!-- Favicon  -->
-  <link rel="icon" href="https://estiempo.org/images/icono32.png" sizes="32x32" />
-  <link rel="icon" href="https://estiempo.org/images/icono192.png" sizes="192x192" />
-  <link rel="apple-touch-icon" href="https://estiempo.org/images/icono180.png" />
+  <link rel="icon" href="https://somostodos.com.co/images/favicon/icono32.png" sizes="32x32" />
+  <link rel="icon" href="https://somostodos.com.co/images/favicon/icono192.png" sizes="192x192" />
+  <link rel="apple-touch-icon" href="https://somostodos.com.co/images/icono180.png" />
   <!--Start of Tawk.to Script-->
 
 <!--End of Tawk.to Script-->

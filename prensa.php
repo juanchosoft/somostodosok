@@ -13,41 +13,12 @@ $arr = $arr['output']['response'];
     <div id="carouselExampleControls" class="carousel slide " data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <div class="img-box"> <img src="images/ok/1.jpg" alt=""></div>
+                <div class="img-box"> <img src="images/banner/74.jpg" alt=""></div>
             </div>
             <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/2.jpg" alt=""></div>
+                <div class="img-box"> <img src="images/banner/75.jpg" alt=""></div>
             </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/4.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/5.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/6.jpg" alt=""></div>
-            </div>
-             <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/8.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/9.jpg" alt=""></div>
-            </div>
-             <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/11.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/12.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/13.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/14.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/15.jpg" alt=""></div>
-            </div>
+            
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                 <span class="sr-only">Anterior</span>
             </a>
@@ -60,41 +31,12 @@ $arr = $arr['output']['response'];
     <div id="solocelulares" class="carousel slide " data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <div class="img-box"> <img src="images/ok/cel/1.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/2.jpg" alt=""></div>
-            </div>
-             <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/4.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
                 <div class="img-box"> <img src="images/ok/cel/5.jpg" alt=""></div>
             </div>
             <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/6.jpg" alt=""></div>
-            </div>
-             <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/8.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/9.jpg" alt=""></div>
-            </div>
-             <div class="carousel-item">
                 <div class="img-box"> <img src="images/ok/cel/11.jpg" alt=""></div>
             </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/12.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/13.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/14.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/15.jpg" alt=""></div>
-            </div>
+            
             <a class="carousel-control-prev" href="#solocelulares" role="button" data-slide="prev">
                 <span class="sr-only">Anterior</span>
             </a>
@@ -116,7 +58,7 @@ $arr = $arr['output']['response'];
   </button>
 
   <div class="collapse navbar-collapse justify-content-md-center" id="navbarsExample08">
-        <ul class="navbar-nav">
+  <ul class="navbar-nav">
             <li class="nav-item">
             <li class="nav-item">
                 <a class="nav-link" href="index.php">Inicio <span class="sr-only">(current)</span></a>
@@ -124,32 +66,17 @@ $arr = $arr['output']['response'];
             <li class="nav-item">
                 <a class="nav-link" href="about.php">Nosotros </a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="apoya.php">Ayúdanos A construir País </a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link" href="signature.php" >Ayuda con tus Firmas</a>
-            </li>
-            <li class="nav-item active">
+             <li class="nav-item active">
                 <a class="nav-link" href="prensa.php">Prensa</a>
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
                 <a class="nav-link" href="candidates.php">Candidatos</a>
-            </li>
+            </li> -->
             <li class="nav-item">
                 <a class="nav-link" href="event.php">Eventos</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="contact.php">Contáctenos</a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link" href="another_regions.php">Otras Regiones</a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link disabled" href="another_regions.php">Quien es Juvenal Díaz Mateus</a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link disabled" href="another_regions.php">Otras Regiones</a>
             </li>
         </ul>
     </div>
@@ -172,45 +99,45 @@ $arr = $arr['output']['response'];
     <div class="fruit_container row">
       <?php $c = count($arr); if ($isvalid) { for ($i = 0; $i < $c; $i++) {$pdf = $arr[$i]['pdf'];?>
           <div class="col-md-4 col-xs-12 box my-3">
-            <embed src="https://estiempo.org/estiempoap/assets/documentos/prensa/<?php echo $pdf; ?>" width="100%" height="375" type="application/pdf">
+            <embed src="https://estiempo.org/somostodosap/assets/documentos/prensa/<?php echo $pdf; ?>" width="100%" height="375" type="application/pdf">
               <div class="link_box">
               <h5><?php echo $arr[$i]['titulo']; ?></h5>
-              <a target="_blank" href="https://estiempo.org/estiempoap/assets/documentos/prensa/<?php echo $pdf; ?>" title="Ver PDF"> Ver </a>
+              <a target="_blank" href="https://estiempo.org/somostodosap/assets/documentos/prensa/<?php echo $pdf; ?>" title="Ver PDF"> Ver </a>
             </div>
           </div>
           <div class="col-md-4 col-xs-12 box my-3">
-            <embed src="https://estiempo.org/estiempoap/assets/documentos/prensa/<?php echo $pdf; ?>" width="100%" height="375" type="application/pdf">
+            <embed src="https://estiempo.org/somostodosap/assets/documentos/prensa/<?php echo $pdf; ?>" width="100%" height="375" type="application/pdf">
               <div class="link_box">
               <h5><?php echo $arr[$i]['titulo']; ?></h5>
-              <a target="_blank" href="https://estiempo.org/estiempoap/assets/documentos/prensa/<?php echo $pdf; ?>" title="Ver PDF"> Ver </a>
+              <a target="_blank" href="https://estiempo.org/somostodosap/assets/documentos/prensa/<?php echo $pdf; ?>" title="Ver PDF"> Ver </a>
             </div>
           </div>
           <div class="col-md-4 col-xs-12 box my-3">
-            <embed src="https://estiempo.org/estiempoap/assets/documentos/prensa/<?php echo $pdf; ?>" width="100%" height="375" type="application/pdf">
+            <embed src="https://estiempo.org/somostodosap/assets/documentos/prensa/<?php echo $pdf; ?>" width="100%" height="375" type="application/pdf">
               <div class="link_box">
               <h5><?php echo $arr[$i]['titulo']; ?></h5>
-              <a target="_blank" href="https://estiempo.org/estiempoap/assets/documentos/prensa/<?php echo $pdf; ?>" title="Ver PDF"> Ver </a>
+              <a target="_blank" href="https://estiempo.org/somostodosap/assets/documentos/prensa/<?php echo $pdf; ?>" title="Ver PDF"> Ver </a>
             </div>
           </div>
           <div class="col-md-4 col-xs-12 box my-3">
-            <embed src="https://estiempo.org/estiempoap/assets/documentos/prensa/<?php echo $pdf; ?>" width="100%" height="375" type="application/pdf">
+            <embed src="https://estiempo.org/somostodosap/assets/documentos/prensa/<?php echo $pdf; ?>" width="100%" height="375" type="application/pdf">
               <div class="link_box">
               <h5><?php echo $arr[$i]['titulo']; ?></h5>
-              <a target="_blank" href="https://estiempo.org/estiempoap/assets/documentos/prensa/<?php echo $pdf; ?>" title="Ver PDF"> Ver </a>
+              <a target="_blank" href="https://estiempo.org/somostodosap/assets/documentos/prensa/<?php echo $pdf; ?>" title="Ver PDF"> Ver </a>
             </div>
           </div>
           <div class="col-md-4 col-xs-12 box my-3">
-            <embed src="https://estiempo.org/estiempoap/assets/documentos/prensa/<?php echo $pdf; ?>" width="100%" height="375" type="application/pdf">
+            <embed src="https://estiempo.org/somostodosap/assets/documentos/prensa/<?php echo $pdf; ?>" width="100%" height="375" type="application/pdf">
               <div class="link_box">
               <h5><?php echo $arr[$i]['titulo']; ?></h5>
-              <a target="_blank" href="https://estiempo.org/estiempoap/assets/documentos/prensa/<?php echo $pdf; ?>" title="Ver PDF"> Ver </a>
+              <a target="_blank" href="https://estiempo.org/somostodosap/assets/documentos/prensa/<?php echo $pdf; ?>" title="Ver PDF"> Ver </a>
             </div>
           </div>
           <div class="col-md-4 col-xs-12 box my-3">
-            <embed src="https://estiempo.org/estiempoap/assets/documentos/prensa/<?php echo $pdf; ?>" width="100%" height="375" type="application/pdf">
+            <embed src="https://estiempo.org/somostodosap/assets/documentos/prensa/<?php echo $pdf; ?>" width="100%" height="375" type="application/pdf">
               <div class="link_box">
               <h5><?php echo $arr[$i]['titulo']; ?></h5>
-              <a target="_blank" href="https://estiempo.org/estiempoap/assets/documentos/prensa/<?php echo $pdf; ?>" title="Ver PDF"> Ver </a>
+              <a target="_blank" href="https://estiempo.org/somostodosap/assets/documentos/prensa/<?php echo $pdf; ?>" title="Ver PDF"> Ver </a>
             </div>
           </div>
       <?php } } ?>

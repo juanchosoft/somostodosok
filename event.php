@@ -77,41 +77,12 @@ include 'admin/include/head.php';
     <div id="carouselExampleControls" class="carousel slide " data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <div class="img-box"> <img src="images/ok/1.jpg" alt=""></div>
+                <div class="img-box"> <img src="images/banner/76.jpg" alt=""></div>
             </div>
             <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/2.jpg" alt=""></div>
+                <div class="img-box"> <img src="images/banner/77.jpg" alt=""></div>
             </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/4.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/5.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/6.jpg" alt=""></div>
-            </div>
-             <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/8.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/9.jpg" alt=""></div>
-            </div>
-             <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/11.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/12.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/13.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/14.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/15.jpg" alt=""></div>
-            </div>
+        
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                 <span class="sr-only">Anterior</span>
             </a>
@@ -124,41 +95,12 @@ include 'admin/include/head.php';
     <div id="solocelulares" class="carousel slide " data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <div class="img-box"> <img src="images/ok/cel/1.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/2.jpg" alt=""></div>
-            </div>
-             <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/4.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/5.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
                 <div class="img-box"> <img src="images/ok/cel/6.jpg" alt=""></div>
             </div>
-             <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/8.jpg" alt=""></div>
-            </div>
             <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/9.jpg" alt=""></div>
+                <div class="img-box"> <img src="images/ok/cel/10.jpg" alt=""></div>
             </div>
-             <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/11.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/12.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/13.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/14.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/15.jpg" alt=""></div>
-            </div>
+             
             <a class="carousel-control-prev" href="#solocelulares" role="button" data-slide="prev">
                 <span class="sr-only">Anterior</span>
             </a>
@@ -177,63 +119,45 @@ include 'admin/include/head.php';
   </button>
 
   <div class="collapse navbar-collapse justify-content-md-center" id="navbarsExample08">
-        <ul class="navbar-nav">
-
+  <ul class="navbar-nav">
+            <li class="nav-item">
             <li class="nav-item">
                 <a class="nav-link" href="index.php">Inicio <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="about.php">Nosotros </a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="apoya.php">Ayúdanos A construir País </a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link" href="signature.php" >Ayuda con tus Firmas</a>
-            </li>
-            <li class="nav-item">
+             <li class="nav-item">
                 <a class="nav-link" href="prensa.php">Prensa</a>
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
                 <a class="nav-link" href="candidates.php">Candidatos</a>
-            </li>
+            </li> -->
             <li class="nav-item active">
                 <a class="nav-link" href="event.php">Eventos</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="contact.php">Contáctenos</a>
             </li>
-            <li class="nav-item">
-            <a class="nav-link" href="another_regions.php">Otras Regiones</a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link disabled" href="another_regions.php">Quien es Juvenal Díaz Mateus</a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link disabled" href="another_regions.php">Otras Regiones</a>
-            </li>
         </ul>
     </div>
 </nav>
-<?php include 'admin/include/element_apoyo.php';?>
+
 
   <div class="container">
     <br>
-    <center>
-    <button type="button" class="btn btn-primary primary4" data-toggle="modal" data-target=".bd-example-modal-lg">PROXIMAS REUNIONES QUE REALIZAREMOS CON NUESTRA GENTE</button>
-</center>
-  
+    
     <h2 class="text-center p-5">EVENTOS REALIZADOS</h2>
     
   </div>
-  <div class="container-fluid">
+  <!-- <div class="container-fluid">
     <div id="myBtnContainer">
       <button class="btn active" onclick="filterSelection('all')"> Todos</button>
-      <button class="btn" onclick="filterSelection('antioquia')"> Antioquia</button>
-      <button class="btn" onclick="filterSelection('santander')"> Santander</button>
+      <button class="btn" onclick="filterSelection('antioquia')"> </button>
+      <button class="btn" onclick="filterSelection('santander')"> </button>
       <!-- <button class="btn" onclick="filterSelection('paz')"> La Paz (Santander)</button> -->
     </div> 
-  </div> 
+  </div>  -->
 
 <!-- Portfolio Gallery Grid -->
 <div class="container-fluid">
@@ -241,93 +165,107 @@ include 'admin/include/head.php';
   <div class="column santander">
     <div class="content">
     <article class="foto" >
-      <img src="images/eventos/san_gil/1.jpg" alt="Mountains" style="width:100%"class="img-fluid" >
+      <img src="images/eventos/1.png" alt="" style="width:100%"class="img-fluid" >
    
-      <h4>San Gil - Santander</h4>
-      <p>Dialogando con amigos</p>
+      <!-- <h4>San Gil - Santander</h4>
+      <p>Dialogando con amigos</p> -->
       </article>
     </div>
   </div>
   <div class="column santander">
     <div class="content">
-      <img src="images/eventos/socorro/1.jpg" alt="Car" style="width:100%" class="img-fluid">
-      <h4>Socorro -Santander</h4>
-      <p>Dialogando con amigos</p>
+    <img src="images/eventos/2.png" alt="" style="width:100%"class="img-fluid" >
+      <!-- <h4>Socorro -Santander</h4>
+      <p>Dialogando con amigos</p> -->
     </div>
   </div>
   <div class="column santander">
     <div class="content">
-      <img src="images/eventos/socorro/2.jpg" alt="Car" style="width:100%" class="img-fluid">
-      <h4>Socorro -Santander</h4>
-      <p>Dialogando con amigos</p>
+    <img src="images/eventos/6.png" alt="" style="width:100%"class="img-fluid" >
+      <!-- <h4>Socorro -Santander</h4>
+      <p>Dialogando con amigos</p> -->
     </div>
   </div>
 
   <div class="column santander">
     <div class="content">
-      <img src="images/eventos/la_paz/1.jpg" alt="paz" style="width:100%" class="img-fluid">
-      <h4>La Paz Santander</h4>
-      <p>Compartiendo con la comunidad</p>
+    <img src="images/eventos/4.png" alt="" style="width:100%"class="img-fluid" >
+      <!-- <h4>La Paz Santander</h4>
+      <p>Compartiendo con la comunidad</p> -->
     </div>
   </div>
   <div class="column santander">
     <div class="content">
-      <img src="images/eventos/la_paz/2.jpg" alt="paz" style="width:100%" class="img-fluid">
-      <h4>La Paz Santander</h4>
-      <p>Compartiendo con la comunidad</p>
+    <img src="images/eventos/5.png" alt="" style="width:100%"class="img-fluid" >
+      <!-- <h4>La Paz Santander</h4>
+      <p>Compartiendo con la comunidad</p> -->
     </div>
   </div>
   <div class="column santander">
     <div class="content">
-      <img src="images/eventos/la_paz/3.jpg" alt="paz" style="width:100%" class="img-fluid">
-      <h4>La Paz Santander</h4>
-      <p>Compartiendo con la comunidad</p>
+    <img src="images/eventos/3.png" alt="" style="width:100%"class="img-fluid" >
+      <!-- <h4>La Paz Santander</h4>
+      <p>Compartiendo con la comunidad</p> -->
     </div>
   </div>
-  <div class="column antioquia">
+  <div class="column santander">
+    <div class="content">
+    <img src="images/eventos/7.png" alt="" style="width:100%"class="img-fluid" >
+      <!-- <h4>La Paz Santander</h4>
+      <p>Compartiendo con la comunidad</p> -->
+    </div>
+  </div>
+  <div class="column santander">
+    <div class="content">
+    <img src="images/eventos/8.png" alt="" style="width:100%"class="img-fluid" >
+      <!-- <h4>La Paz Santander</h4>
+      <p>Compartiendo con la comunidad</p> -->
+    </div>
+  </div>
+  <!-- <div class="column antioquia">
     <div class="content">
     <div class="ratio ratio-16x9">
         <iframe width="100%" height="300" src="https://www.youtube.com/embed/HQBQl3amXwY?autoplay=1&controls=0&loop=1" title="Es Tiempo de progresar" allowfullscreen></iframe>
-    </div>
-      <h4>Conversatiorio</h4>
-      <p>Universidad Santo Tomás</p>
+    </div> -->
+      <!-- <h4>Conversatiorio</h4>
+      <p>Universidad Santo Tomás</p> -->
     </div>
   </div>
-  <div class="column antioquia">
+  <!-- <div class="column antioquia">
     <div class="content">
     <div class="ratio ratio-16x9">
         <iframe width="100%" height="300" frameborder="0" src="https://www.youtube.com/embed/Yyuq1dtScg8?autoplay=1&controls=0&loop=1" title="Es Tiempo de progresar" allowfullscreen></iframe>
-    </div>
-      <h4>Conversatiorio</h4>
-      <p>Universidad Santo Tomás</p>
+    </div> -->
+      <!-- <h4>Conversatiorio</h4>
+      <p>Universidad Santo Tomás</p> -->
     </div>
   </div>
-  <div class="column antioquia">
+  <!-- <div class="column antioquia">
     <div class="content">
     <div class="ratio ratio-16x9">
         <iframe width="100%" height="300" frameborder="0" src="https://www.youtube.com/embed/oweJeduiueI?autoplay=1&controls=0&loop=1" title="Es Tiempo de progresar" allowfullscreen></iframe>
-    </div>
-      <h4>Conversatiorio</h4>
-      <p>Universidad Santo Tomás</p>
+    </div> -->
+      <!-- <h4>Conversatiorio</h4>
+      <p>Universidad Santo Tomás</p> -->
     </div>
   </div>
   
-  <div class="column antioquia">
+  <!-- <div class="column antioquia">
     <div class="content">
     <div class="ratio ratio-16x9">
         <iframe width="100%" height="300" frameborder="0" src="https://www.youtube.com/embed/vQP9FUSB2zc?autoplay=1&controls=0&loop=1" title="Es Tiempo de progresar" allowfullscreen></iframe>
-    </div>
-      <h4>Conversatiorio</h4>
-      <p>Universidad Santo Tomás</p>
+    </div> -->
+      <!-- <h4>Conversatiorio</h4>
+      <p>Universidad Santo Tomás</p> -->
     </div>
   </div>
-  <div class="column antioquia">
+  <!-- <div class="column antioquia">
     <div class="content">
     <div class="ratio ratio-16x9">
         <iframe width="100%" height="300" frameborder="0" src="https://www.youtube.com/embed/vQP9FUSB2zc?autoplay=1&controls=0&loop=1" title="Es Tiempo de progresar" allowfullscreen></iframe>
-    </div>
-      <h4>Conversatiorio</h4>
-      <p>Universidad Santo Tomás</p>
+    </div> -->
+      <!-- <h4>Conversatiorio</h4>
+      <p>Universidad Santo Tomás</p> -->
     </div>
   </div>
 <!-- END GRID -->

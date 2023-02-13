@@ -50,20 +50,16 @@
             <div class="footer-col fourth">
                 <h5>Redes Sociales</h5>
                 <p class="p-small">Síguenos en nuestras redes sociales:</p>
-                <a href="#your-link">
-                    <i class="fab fa-facebook-f"></i>
-                </a>
-                <a href="https://twitter.com/EsTiempoMov" target="_blank">
+            
+                <a href="https://twitter.com/EquipoTodos?t=3rO7E9Js_rF--hGEv1Rp2Q&s=08" target="_blank">
                     <i class="fab fa-twitter"></i>
                 </a>
-                <a href="https://www.youtube.com/@estiempo4359" target="_blank">
-                    <i class="fab fa-youtube"></i>
-                </a>
-                <a href="https://www.instagram.com/EsTiempoMov/?hl=es-la" target="_blank">
+                
+                <a href="https://www.instagram.com/equiposomostodos/?igshid=ZDdkNTZiNTM%3D" target="_blank">
                     <i class="fab fa-instagram"></i>
                 </a>
-                <a href="https://www.tiktok.com/@graljuvenaldiaz?_t=8Z1gtgsF869&_r=1" target="_blank">
-                    <i class="fab fa-tiktok"></i>
+                <a href="https://www.facebook.com/profile.php?id=100076228652123" target="_blank">
+                    <i class="fab fa-facebook"></i>
                 </a>
                
             </div> 

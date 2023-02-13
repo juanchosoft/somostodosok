@@ -1,6 +1,6 @@
 <?php
 header('Content-Type: text/html; charset=UTF-8');  
-include 'admin/include/head.php';
+include 'admin/include/head.php'
 
 
 ?>
@@ -10,41 +10,12 @@ include 'admin/include/head.php';
     <div id="carouselExampleControls" class="carousel slide " data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <div class="img-box"> <img src="images/ok/1.jpg" alt=""></div>
+                <div class="img-box"> <img src="images/banner/78.jpg" alt=""></div>
             </div>
             <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/2.jpg" alt=""></div>
+                <div class="img-box"> <img src="images/banner/79.jpg" alt=""></div>
             </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/4.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/5.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/6.jpg" alt=""></div>
-            </div>
-             <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/8.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/9.jpg" alt=""></div>
-            </div>
-             <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/11.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/12.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/13.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/14.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/15.jpg" alt=""></div>
-            </div>
+          
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                 <span class="sr-only">Anterior</span>
             </a>
@@ -57,41 +28,12 @@ include 'admin/include/head.php';
     <div id="solocelulares" class="carousel slide " data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <div class="img-box"> <img src="images/ok/cel/1.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/2.jpg" alt=""></div>
-            </div>
-             <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/4.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/5.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/6.jpg" alt=""></div>
-            </div>
-             <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/8.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
                 <div class="img-box"> <img src="images/ok/cel/9.jpg" alt=""></div>
             </div>
-             <div class="carousel-item">
+            <div class="carousel-item">
                 <div class="img-box"> <img src="images/ok/cel/11.jpg" alt=""></div>
             </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/12.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/13.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/14.jpg" alt=""></div>
-            </div>
-            <div class="carousel-item">
-                <div class="img-box"> <img src="images/ok/cel/15.jpg" alt=""></div>
-            </div>
+             
             <a class="carousel-control-prev" href="#solocelulares" role="button" data-slide="prev">
                 <span class="sr-only">Anterior</span>
             </a>
@@ -110,45 +52,30 @@ include 'admin/include/head.php';
   </button>
 
   <div class="collapse navbar-collapse justify-content-md-center" id="navbarsExample08">
-        <ul class="navbar-nav">
-        
+  <ul class="navbar-nav">
+            <li class="nav-item">
             <li class="nav-item">
                 <a class="nav-link" href="index.php">Inicio <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="about.php">Nosotros </a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="apoya.php">Ayúdanos A construir País </a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link" href="signature.php" >Ayuda con tus Firmas</a>
-            </li>
-            <li class="nav-item">
+             <li class="nav-item">
                 <a class="nav-link" href="prensa.php">Prensa</a>
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
                 <a class="nav-link" href="candidates.php">Candidatos</a>
-            </li>
-            <li class="nav-item">
+            </li> -->
+            <li class="nav-item ">
                 <a class="nav-link" href="event.php">Eventos</a>
             </li>
             <li class="nav-item active">
                 <a class="nav-link" href="contact.php">Contáctenos</a>
             </li>
-            <li class="nav-item">
-            <a class="nav-link" href="another_regions.php">Otras Regiones</a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link disabled" href="another_regions.php">Quien es Juvenal Díaz Mateus</a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link disabled" href="another_regions.php">Otras Regiones</a>
-            </li>
         </ul>
     </div>
 </nav>
-<?php include 'admin/include/element_apoyo.php';?>
+
   <div id="contacto" class="form-1">
     <div class="container">
         <div class="text-left">
@@ -157,25 +84,25 @@ include 'admin/include/head.php';
         <form id="form" action="https://formspree.io/f/xeqdgzzr"  method="POST">
             <div class="row">
                 <div class="col-md-4 form-group">                        
-                    <label class="bmd-label-floating" for="rname">Nombre completo</label>
+                    <label class="bmd-label-floating gruesa" for="rname">Nombre completo</label>
                     <input type="text" class="form-control" id="nombre" name="nombre" required placeholder="Por favor ingresa tu nombre">
                 </div>
                 <div class="col-md-4 form-group">                        
-                    <label class="bmd-label-floating" for="remail">Email</label>
+                    <label class="bmd-label-floating gruesa" for="remail">Email</label>
                     <input type="email" class="form-control" id="email" name="email" placeholder="Por favor ingresa tu correo electrónico">
                 </div>
                 <div class="col-md-4 form-group">                        
-                    <label class="bmd-label-floating" for="phone">Teléfono</label>
+                    <label class="bmd-label-floating gruesa" for="phone">Teléfono</label>
                     <input type="number" class="form-control" id="phone" name="phone" placeholder="Por favor ingresa tu teléfono">
                 </div>                
                 <div class="col-md-12">
                 <div class="my-1"> 
-                    <label class="" for="rphone">Déjanos un mensaje</label>
+                    <label class="gruesa" for="rphone">Déjanos un mensaje</label>
                     <textarea class="form-control" id="mensaje" name="mensaje" rows="6" placeholder="Por favor déjanos un mensaje"></textarea>
                 </div>
                 <br>
                 <br>
-                    <div class="g-recaptcha" data-sitekey="6LfMTOkiAAAAALlUmWZ9iHIrWLgZ8tZ6h9w9zOI0"></div>
+                    <div class="g-recaptcha" data-sitekey="6LdO8mkkAAAAAGd02MU9tmyiyiMBrhjSKUltmXH5"></div>
                     <br>
                     <br>                <input type="submit" value="Enviar" class="primary2" id="boton">
             

@@ -152,18 +152,17 @@ class Firmas
                     ':municipio_id' => $tbl_municipio_id,
                     ':vereda_id' => $tbl_vereda_id,
                     ':acepto_terminos' => $acepto_terminos,
-                    ':telefono' => $telefono,
+                    ':email' => $email,
                     ':cumpleanos' => $cumpleanos,
+                    ':telefono' => $telefono,
                     ':autorizo_comunicados' => $autorizo_comunicados,
-                     ':cedula' => $cedula,
+                    ':cedula' => $cedula,
                     ':departamento_id' => $tbl_departamento_id,
                     ':tbl_barrio_id' => $tbl_barrio_id,
                     ':tbl_pais_id' => $tbl_pais_id,
                    
                 );
-                print_r($q);
-                print_r($arrparam);
-                exit();
+             
 
 
                 if ($result->execute($arrparam)) {

@@ -773,7 +773,7 @@ input[type='checkbox'] {
 /**************************/
 .navbar-custom {
 	background-color: #fff;
-	box-shadow: 0 0.0625rem 0.375rem 0 rgba(0, 0, 0, 0.04);
+	box-shadow: 0 0.0625rem 0.375rem 0 rgba(70, 5, 5, 0.04);
 	font: 600 0.875rem/0.875rem "Montserrat", sans-serif;
 	transition: all 0.2s;
 }
@@ -835,7 +835,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .dropdown-item {
-	color: #333;
+	color: #333333;
 	text-decoration: none;
 }
 
@@ -868,7 +868,7 @@ input[type='checkbox'] {
 .navbar-custom .navbar-toggler {
 	padding: 0;
 	border: none;
-	color: #333;
+	color: #fbd70c;
 	font-size: 2rem;
 }
 
@@ -1032,6 +1032,10 @@ input[type='checkbox'] {
 	background-size: 1.125rem 1.75rem;
 }
 
+.gruesa{
+	font-weight: bold !important;
+}
+
 
 /****************************/
 /*     05. Registration     */
@@ -1040,7 +1044,7 @@ input[type='checkbox'] {
     padding-top: 6rem;
     padding-bottom: 6.25rem;
     background-color: #faf9f8;
-    background-image: url(../images/bgwall.jpg);
+    background-image: url(../images/image.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -1684,7 +1688,7 @@ input[type='checkbox'] {
 .footer {
     padding-top: 5.75rem;
     padding-bottom: 4rem;
-    background: #000b56 ;
+    background: #f8d405 ;
 }
 
 .footer .footer-col {
@@ -1985,7 +1989,7 @@ color: #ccc;
 	}
 
 	.navbar-custom.top-nav-collapse .nav-item .nav-link {
-		color: rgb(16, 5, 173);
+		color: rgb(12, 0, 174);
 	}
 
 	.navbar-custom.top-nav-collapse .nav-item .nav-link:hover,
