@@ -6,23 +6,23 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="plugins/sweetalert2/sweetalert2.min.css">
-  <title>Movimiento - SOMOS TODOS</title>
+  <title>SOMOS TODOS</title>
   <meta name="description" content="Ayúdanos a construir un mejor pais. Con los aportes de toda la comunidad podemos hacer una Colombia más próspera y segura."/>
   <meta name="image" content="https://somostodos.com.co/images/favicon/logook.png">
   <meta itemprop="image" content="https://somostodos.com.co/images/favicon/logook.png">
   <link rel="canonical" href="https://somostodos.com.co/" />
   <meta property="og:locale" content="es_ES" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Movimiento - SOMOS TODOS" />
+  <meta property="og:title" content="SOMOS TODOS" />
   <meta property="og:description" content="Ayúdanos a construir un mejor pais. Con los aportes de toda la comunidad podemos hacer una Colombia más próspera y segura." />
   <meta property="og:url" content="https://somostodos.com.co/" />
-  <meta property="og:site_name" content="Movimiento - SOMOS TODOS" />
+  <meta property="og:site_name" content="SOMOS TODOS" />
   <meta name="og:image" content="https://somostodos.com.co/images/favicon/logook.png">
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Movimiento - SOMOS TODOS" />
+  <meta name="twitter:title" content="SOMOS TODOS" />
   <meta name="twitter:description" content="Ayúdanos a construir un mejor pais. Con los aportes de toda la comunidad podemos hacer una Colombia más próspera y segura." />
   <meta name="twitter:image:src" content="https://somostodos.com.co/images/favicon/logook.png">
-  <meta name="twitter:label1" content="Movimiento - SOMOS TODOS" />
+  <meta name="twitter:label1" content="SOMOS TODOS" />
 
 
   <!-- slider stylesheet -->
@@ -68,7 +68,7 @@
     <!-- header section strats -->
     <div class="brand_box">
       <a class="navbar-brand" href="index.php">
-        <img src="images/logo_bg_white.png" >
+        <img src="images/logo_bg_white3.png" >
       </a>
     </div>
     

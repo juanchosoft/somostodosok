@@ -13,7 +13,7 @@ class DbConection {
     $this->host = "localhost";
     $this->user = "root";
     $this->pass = "";
-    $this->dbName = "mgdiaz";
+    $this->dbName = "somos";
 
     //Este es el timestamp que se debe ingresar, de acuerdo a la hora deseada
     $this->server_date = 'DATE_ADD(NOW(),INTERVAL 1 HOUR)';

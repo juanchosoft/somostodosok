@@ -29,7 +29,7 @@
                     </li>
                     <li class="media">
                         <i class="fas fa-square"></i>
-                        <div class="media-body"><a href="about.php">Nuestro Movimiento</a></div>
+                        <div class="media-body"><a href="about.php">Nosotros</a></div>
                     </li>
                     <li class="media">
                         <i class="fas fa-square"></i>
